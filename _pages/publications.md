@@ -7,7 +7,6 @@ bibliography_list_attributes:
 author_profile: true
 ---
 
-{: reversed="reversed"}
 
 0. Erickson, M.G. & M.A. Wattiaux. (2021). Practices and perceptions at the COVID-19 transition in animal sciences courses. Natural Sciences Education 2021;1-18.
 <a href="https://doi.org/10.1002/nse2.20039"><i class="fas fa-link"></i></a>  
