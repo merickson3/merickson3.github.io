@@ -5,15 +5,6 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
-
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
 
 Erickson, M.G. & M.A. Wattiaux. (2021). Practices and perceptions at the COVID-19 transition in animal sciences courses. Natural Sciences Education 2021;1-18., https://doi.org/10.1002/nse2.20039 
 
