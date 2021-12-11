@@ -6,6 +6,7 @@ author_profile: true
 ---
 
 
+{: reversed="reversed"}
 0. Erickson, M.G. & M.A. Wattiaux. (2021). Practices and perceptions at the COVID-19 transition in animal sciences courses. Natural Sciences Education 2021;1-18.,   <a href="https://doi.org/10.1002/nse2.20039"></a>
 
 
@@ -31,4 +32,3 @@ Erickson, M.G., Karcher, E.L., Guberman, D. (2019). Interest and active learning
 
 Worden, L., Erickson, M., Gramer, S., Tap, C., Ylioja, C., Trottier, N., . . . Karcher, E. (2018). Short communication: Decreasing the dietary ratio of n-6 to n-3 fatty acids increases the n-3 concentration of peripheral blood mononuclear cells in weaned Holstein heifer calves. Journal of Dairy Science, 101(2), 1227-1233. doi:10.3168/jds.2017-12696
 
-{: reversed="reversed"}
