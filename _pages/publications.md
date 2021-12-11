@@ -8,9 +8,9 @@ author_profile: true
 
 {: reversed="reversed"}
 
-0. Erickson, M.G. & M.A. Wattiaux. (2021). Practices and perceptions at the COVID-19 transition in animal sciences courses. Natural Sciences Education 2021;1-18.<a href="https://doi.org/10.1002/nse2.20039"> https://doi.org/10.1002/nse2.20039</a>
+0. Erickson, M.G. & M.A. Wattiaux. (2021). Practices and perceptions at the COVID-19 transition in animal sciences courses. Natural Sciences Education 2021;1-18.
 
-
+<a href="https://doi.org/10.1002/nse2.20039"> https://doi.org/10.1002/nse2.20039</a> 
 0. Erickson, M., Wattiaux, M.A., & Karcher, E.L. (2020). Longitudinal measurement invariance and stability of individual interest across a 16‐week introductory animal sciences course. Natural Sciences Education, 49(1), e20031.  <a href="https://doi.org/10.1002/nse2.20031"></a>
 
 0. Erickson, M. G., Ranathunga, S.D., & Wattiaux, M.A. (2020). Animal sciences undergraduate education since the ASAS centennial: a national survey and scoping review. Translational animal science, 4(4), txaa202.   <a href="https://doi.org/10.1093/tas/txaa202"></a>
