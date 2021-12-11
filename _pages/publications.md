@@ -2,6 +2,8 @@
 layout: archive
 title: "Publications"
 permalink: /publications/
+bibliography_list_attributes:
+    reversed: "reversed"
 author_profile: true
 ---
 
