@@ -27,9 +27,10 @@ author_profile: true
 
 0. Erickson, M.G., Knobloch, N.A., Karcher, D.M., Erasmus, M., Karcher, E.L. (2020). High school students’ STEM motivation before and after online modules contextualizing STEM in poultry science. Journal of Agricultural Education.  <a href="https://www.researchgate.net/publication/343724993_High_School_Student_and_Teacher_Perceptions_of_an_Online_Learning_Experience_Integrating_STEM_and_Poultry_Science"> <i class="fas fa-link"></i></a> 
 
-0. Erickson, M.G., Knobloch, N.A., Karcher, D.M., Erasmus, M., Karcher, E.L. (2020). Poultry in the classroom:  Effectiveness of an online education program designed to increase high school students’ interest in poultry science. Poultry Science. 
+0. Erickson, M.G., Knobloch, N.A., Karcher, D.M., Erasmus, M., Karcher, E.L. (2019). Poultry in the classroom:  Effectiveness of an online education program designed to increase high school students’ interest in poultry science. Poultry Science. <a href="https://www.researchgate.net/publication/335468264_Poultry_in_the_classroom_effectiveness_of_an_online_poultry-science-based_education_program_for_high_school_STEM_instruction"> <i class="fas fa-link"></i></a>   
 
-0. Erickson, M.G., Karcher, E.L., Guberman, D. (2019). Interest and active learning techniques in an introductory animal sciences course. North American College Teachers of Agriculture Journal. 
+0. Erickson, M.G., Karcher, E.L., Guberman, D. (2019). Interest and active learning techniques in an introductory animal sciences course. North American College Teachers of Agriculture Journal. <a href="https://www.researchgate.net/publication/343376853_Interest_and_Active_Learning_Techniques_in_an_Introductory_Animal_Science_Course
+"> <i class="fas fa-link"></i></a>  
 
-0. Worden, L., Erickson, M., Gramer, S., Tap, C., Ylioja, C., Trottier, N., . . . Karcher, E. (2018). Short communication: Decreasing the dietary ratio of n-6 to n-3 fatty acids increases the n-3 concentration of peripheral blood mononuclear cells in weaned Holstein heifer calves. Journal of Dairy Science, 101(2), 1227-1233.  <a href="https://pubmed.ncbi.nlm.nih.gov/29174150/"> <i class="fas fa-link"></i></a> 
+2. Worden, L., Erickson, M., Gramer, S., Tap, C., Ylioja, C., Trottier, N., . . . Karcher, E. (2018). Short communication: Decreasing the dietary ratio of n-6 to n-3 fatty acids increases the n-3 concentration of peripheral blood mononuclear cells in weaned Holstein heifer calves. Journal of Dairy Science, 101(2), 1227-1233.  <a href="https://pubmed.ncbi.nlm.nih.gov/29174150/"> <i class="fas fa-link"></i></a> 
 {: reversed="reversed"}
