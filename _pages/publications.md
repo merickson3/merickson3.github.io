@@ -15,8 +15,6 @@ author_profile: true
 
 0. Erickson, M. G., Ranathunga, S.D., & Wattiaux, M.A. (2020). Animal sciences undergraduate education since the ASAS centennial: a national survey and scoping review. Translational animal science, 4(4), txaa202.   <a href="https://doi.org/10.1093/tas/txaa202"><i class="fas fa-link"></i></a>
 
-0. Erickson, M., Wattiaux, M. A., & Karcher, E. L. (2020). Longitudinal measurement invariance and stability of individual interest across a 16‐week introductory animal sciences course. Natural Sciences Education, 49(1).   <a href="https://doi.org/10.1002/nse2.20031"><i class="fas fa-link"></i></a>
-
 0. Erickson, M.G., Guberman, D., Karcher, E.L. (2020) Undergraduates’ experiences of transculturation toward engaged pedagogy through a partnership program in animal sciences. NACTA Journal. <a href="https://www.researchgate.net/publication/344890529_Undergraduates'_experiences_of_transculturation_toward_engaged_pedagogy_through_a_partnership_program_in_animal_sciences"> <i class="fas fa-link"></i></a> 
 
 0. Erickson, M.G., Grant, J.L., Karcher, E.L. (2020). Structured support advances Extension educator intercultural development during a short-term study-abroad experience. Journal of Extension.  <a href="https://tigerprints.clemson.edu/joe/vol58/iss4/12/"> <i class="fas fa-link"></i></a>
