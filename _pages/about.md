@@ -15,7 +15,7 @@ I anticipate completing my Ph.D. program in mid-to-late 2023. Upon graduating, I
 Current Research
 ======
 My dairy research focuses on dietary strategies for improving nitrogen efficiency. 
-My discipline-based educational research focuses on characterizing interest and motivation in animal sciences.
+My discipline-based educational research focuses on characterizing interest and motivation in animal sciences. To learn more about my research interests, I invite you to peruse [my publications]! (https://merickson3.github.io/publications/)
 
 Education
 ======
