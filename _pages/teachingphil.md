@@ -1,5 +1,5 @@
 ---
-permalink: /teaching/
+permalink: /teachingphil/
 title: "Teaching"
 author_profile: true
 
