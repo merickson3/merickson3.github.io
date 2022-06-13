@@ -15,7 +15,7 @@ author_profile: true
 
 0. Erickson, M.G. and M.A. Wattiaux. (2022, June 21). Teaching Symposium Talk:  Educational psychology methods to advance teaching scholarship and improve student learning in dairy science. Lecture presented at American Dairy Science Association Annual Meeting in Kansas City, MO. 
 
-0. Erickson, M.G., Pizarro, D.P., Zanton, G.I., and M.A. Wattiaux. (2022, June 6). Methane and carbon dioxide production of lactating Holsteins cows with different crude protein feeding strategies. Poster presented at Greenhouse Gas & Animal Agriculture Annual Meeting in Orlando, FL.
+0. Erickson, M.G., Pizarro, D.P., Zanton, G.I., and M.A. Wattiaux. (2022, June 6). Methane and carbon dioxide production of lactating Holsteins cows with different crude protein feeding strategies. Poster presented at Greenhouse Gas & Animal Agriculture Annual Meeting in Orlando, FL. <a href="merickson3.github.io/files/S22 GGAA Poster D04.pdf"><i class="fas fa-link"></i></a>  
 
 0. Simmermeyer, E., M.G. Erickson, & E.L. Karcher. (2021, June 14). Situational interest and intrinsic motivation in various remote teaching formats. Lecture presented at North American College Teachers of Agriculture virtual Annual Meeting.
 
