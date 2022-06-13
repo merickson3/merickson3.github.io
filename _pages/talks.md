@@ -8,6 +8,7 @@ author_profile: true
 ---
 
 
+
 0. Erickson, M.G., Zanton, G.I., and M.A. Wattiaux. (2022, June 22). Effects of dietary crude protein level and feeding pattern on production, nutrient digestion and excretion. Poster presented at American Dairy Science Association Annual Meeting in Kansas City, MO. 
 
 0. Erickson, M.G., Zanton, G.I., and M.A. Wattiaux. (2022, June 21). Effects of dietary crude protein level and feeding pattern on milk production. Lecture presented at American Dairy Science Association Annual Meeting in Kansas City, MO. 
@@ -43,3 +44,5 @@ author_profile: true
 0. Erickson, M. G., Donkin, S.S. (2017, April 13). In Search of an Optimal Glucose Tolerance Testing Protocol for Assessing Glucose Kinetics and Metabolic Status in Dairy Cows. Lecture presented at Tri-State Dairy Nutrition Conference in Fort Wayne, IN.
 
 0. Erickson MG, Baker S, Vezzoli G, Hester P, Makagon M. Effect of perch material on perch use, hen welfare and egg production. Poultry Science Association Annual Meeting Proceedings; 2015 July 27-30; Louisville, KY. Dept. Animal Sciences, Purdue University, West Lafayette, IN. {: reversed="reversed"}
+
+
