@@ -9,9 +9,9 @@ author_profile: true
 
 
 
-0. Erickson, M.G. & Wattiaux, M.A. (2022; in press). Case study:  introductory student onboarding with a place-based, blended welcome tour. NACTA Journal. 
+0. Erickson, M.G. & Wattiaux, M.A. (2022). Case study:  introductory student onboarding with a place-based, blended welcome tour. NACTA Journal. <a href="https://www.researchgate.net/publication/362850929_Case_Study_Introductory_Student_Onboarding_With_a_Place-Based_Blended_Welcome_Tour"><i class="fas fa-link"></i></a>  
 
-0. Simmermeyer, E., Erickson, M.G., Walsh, S., & Karcher, E.L. (2022; in press). Associating synchronous and asynchronous remote teaching formats with situational interest and motivation. NACTA Journal.
+0. Simmermeyer, E., Erickson, M.G., Walsh, S., & Karcher, E.L. (2022; in press). Associating synchronous and asynchronous remote teaching formats with situational interest and motivation. NACTA Journal. <a href="https://www.researchgate.net/publication/362851020_Associating_Synchronous_and_Asynchronous_Remote_Teaching_Formats_with_Student_Situational_Interest_and_Motivation"><i class="fas fa-link"></i></a>  
 
 0. Erickson, M.G. & M.A. Wattiaux. (2021). Practices and perceptions at the COVID-19 transition in animal sciences courses. Natural Sciences Education 2021;1-18.
 <a href="https://doi.org/10.1002/nse2.20039"><i class="fas fa-link"></i></a>  
