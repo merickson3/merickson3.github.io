@@ -14,7 +14,7 @@ I would love to hear from you. Please see the sidebar for a few ways to keep in 
 
 Career Objectives
 -----
-I anticipate completing my Ph.D. program in mid-to-late 2023. Upon graduating, I hope to serve as a postdoc or split-appointment faculty where I can pursue a versatile research program, develop courses, and work with colleagues to implement evidence-based curriculum redesign. If you know of an open position, please feel free to reach out to me (merickson3@wisc.edu).
+I anticipate completing my Ph.D. program in 2023. Upon graduating, I hope to serve as a postdoc or split-appointment faculty where I can pursue a versatile research program, develop courses, and work with colleagues to implement evidence-based curriculum redesign. If you know of an open position, please feel free to reach out to me (merickson3@wisc.edu).
 
 Research Interests
 -----
