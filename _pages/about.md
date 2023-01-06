@@ -13,6 +13,8 @@ Connect with me!
 -----
 I would love to hear from you. Please see the sidebar for a few ways to keep in touch. 
 
+![Me and a study participant](mgericksoncows.jpg)
+
 Career Objectives
 -----
 I anticipate completing my Ph.D. program in 2023. Upon graduating, I hope to serve as a postdoc or split-appointment faculty where I can pursue a versatile research program, develop courses, and work with colleagues to implement evidence-based curriculum redesign. If you know of an open position, please feel free to reach out to me (merickson3@wisc.edu).
@@ -27,5 +29,5 @@ Education
 - M.S. Animal Sciences, Purdue University, 2019
 - B.S. Animal Sciences, Purdue University, 2017
 
------
-![Me and a study participant](mgericksoncows.jpg)
+
+
