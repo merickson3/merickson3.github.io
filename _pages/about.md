@@ -29,4 +29,4 @@ I would love to hear from you. Please see the sidebar for a few ways to keep in 
 
 
 
-![Me and a study participant](mgericksoncows.jpg){:height="360px" width="360px"}
+![Me and a study participant](mgericksoncows.jpg)
