@@ -8,7 +8,6 @@ redirect_from:
 
 ---
 
-![](mgericksoncows.jpg)
 
 Connect with me!
 -----
@@ -27,3 +26,6 @@ Education
 - Ph.D., Dairy Science, University of Wisconsin--Madison, Anticipated 2023
 - M.S. Animal Sciences, Purdue University, 2019
 - B.S. Animal Sciences, Purdue University, 2017
+
+-----
+![Me and a study participant](mgericksoncows.jpg)
