@@ -9,11 +9,6 @@ redirect_from:
 ---
 
 
-Connect with me!
------
-I would love to hear from you. Please see the sidebar for a few ways to keep in touch. 
-
-![Me and a study participant](mgericksoncows.jpg){:height="360px" width="360px"}
 
 Career Objectives
 -----
@@ -29,5 +24,10 @@ Education
 - M.S. Animal Sciences, Purdue University, 2019
 - B.S. Animal Sciences, Purdue University, 2017
 
+Connect with me!
+-----
+I would love to hear from you. Please see the sidebar for a few ways to keep in touch. 
 
 
+
+![Me and a study participant](mgericksoncows.jpg){:height="360px" width="360px"}
