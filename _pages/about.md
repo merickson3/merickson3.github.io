@@ -13,7 +13,7 @@ Connect with me!
 -----
 I would love to hear from you. Please see the sidebar for a few ways to keep in touch. 
 
-![Me and a study participant](mgericksoncows.jpg)
+![Me and a study participant](mgericksoncows.jpg){:height="360px" width="360px"}
 
 Career Objectives
 -----
