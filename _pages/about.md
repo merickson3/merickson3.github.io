@@ -8,6 +8,8 @@ redirect_from:
 
 ---
 
+![](/images/merickson3.png)
+
 Connect with me!
 -----
 I would love to hear from you. Please see the sidebar for a few ways to keep in touch. 
