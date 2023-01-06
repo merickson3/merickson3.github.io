@@ -8,7 +8,7 @@ redirect_from:
 
 ---
 
-![]('mgericksoncows.jpeg')
+![]('mgericksoncows.jpg')
 
 Connect with me!
 -----
