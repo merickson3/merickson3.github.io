@@ -46,4 +46,4 @@ author_profile: true
 0. Erickson MG, Baker S, Vezzoli G, Hester P, Makagon M. Effect of perch material on perch use, hen welfare and egg production. Poultry Science Association Annual Meeting Proceedings; 2015 July 27-30; Louisville, KY. Dept. Animal Sciences, Purdue University, West Lafayette, IN. 
 {: reversed="reversed"}
 
-
+![Presenting at GGAA 2022](ggaa_presentation.jpg)
