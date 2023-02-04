@@ -20,8 +20,9 @@ I am interested in sustainable livestock production systems. I use both natural 
 Education
 -----
 - Ph.D., Dairy Science, University of Wisconsin--Madison, Anticipated 2023
-- M.S. Animal Sciences, Purdue University, 2019
-- B.S. Animal Sciences, Purdue University, 2017
+- M.S., Animal Sciences, Purdue University, 2019
+- P.A.S., Dairy Science, American Registry of Professional Animal Scientists, 2017
+- B.S., Animal Sciences, Purdue University, 2017
 
 Connect with me!
 -----
