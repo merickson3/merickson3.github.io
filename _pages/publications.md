@@ -54,5 +54,5 @@ author_profile: true
 0. Erickson, M.G., Karcher, E.L., & Guberman, D. (2019). Interest and active learning techniques in an introductory animal sciences course. North American College Teachers of Agriculture Journal. <a href="https://www.researchgate.net/publication/343376853_Interest_and_Active_Learning_Techniques_in_an_Introductory_Animal_Science_Course
 "> <i class="fas fa-link"></i></a>  
 
-2. Worden, L., Erickson, M., Gramer, S., Tap, C., Ylioja, C., Trottier, N., . . ., & Karcher, E. (2018). Short communication: Decreasing the dietary ratio of n-6 to n-3 fatty acids increases the n-3 concentration of peripheral blood mononuclear cells in weaned Holstein heifer calves. Journal of Dairy Science, 101(2), 1227-1233.  <a href="https://pubmed.ncbi.nlm.nih.gov/29174150/"> <i class="fas fa-link"></i></a> 
+2. Worden, L., Erickson, M., Gramer, S., Tap, C., Ylioja, C., Trottier, N., Preseault, C.L, VandeHaar, M.J., Lock, A.L., & Karcher, E. (2018). Short communication: Decreasing the dietary ratio of n-6 to n-3 fatty acids increases the n-3 concentration of peripheral blood mononuclear cells in weaned Holstein heifer calves. Journal of Dairy Science, 101(2), 1227-1233.  <a href="https://pubmed.ncbi.nlm.nih.gov/29174150/"> <i class="fas fa-link"></i></a> 
 {: reversed="reversed"}
