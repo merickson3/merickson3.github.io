@@ -15,7 +15,7 @@ I anticipate completing my Ph.D. program in 2023. Upon graduating, I hope to ser
 
 Research Interests
 -----
-I am interested in sustainable livestock production systems. I use both social and natural sciences methods, although I have a particular interest in quantitative-driven, mixed-methods survey research. Currently, my dairy research focuses on protein and nitrogen efficiency in lactating cows. My discipline-based educational research focuses student-driven, evidence-based modernization of curricula and pedagogies in Animal and Dairy Sciences. To learn more about my research interests, I invite you to peruse [my publications](https://merickson3.github.io/publications/).
+I am interested in sustainable livestock production systems. I use both natural and social science methods. My dairy research focuses on protein and nitrogen efficiency in lactating cows and holistic sustainability assessment. My discipline-based educational research focuses student-driven, evidence-based modernization of curricula and pedagogies in Animal and Dairy Sciences. To learn more about my research, I invite you to peruse [my publications](https://merickson3.github.io/publications/). 
 
 Education
 -----
