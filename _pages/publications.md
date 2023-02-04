@@ -8,7 +8,7 @@ author_profile: true
 ---
 
 
-# Pre-prints
+## Pre-prints
 
 0. Barros, T., **Erickson, M.G.,** Aguerre, M.A., Olmos Colmenero, J.J., Bertics, S.J., and M.A. Wattiaux (2023, *In preparation* ). Effects of reduced dietary crude protein concentration on digestibility, N balance, and serum AA concentrations in late-lactation dairy cows. Journal of Dairy Science. 
 
@@ -24,7 +24,7 @@ author_profile: true
 
 0. De los Santos, J.A., **Erickson, M.G.**, Wattiaux, M.A., and J.J. Parrish. (2023, *Submitted*). Retrospective ratings of learning across pre-pandemic, emergency-remote, and post-pandemic instruction in an introductory biology laboratory. NACTA Journal.  
 
-# Publications
+## Publications
 
 0. Erickson, M.G. & Wattiaux, M.A. (2022). Case study:  introductory student onboarding with a place-based, blended welcome tour. NACTA Journal. <a href="https://www.researchgate.net/publication/362850929_Case_Study_Introductory_Student_Onboarding_With_a_Place-Based_Blended_Welcome_Tour"><i class="fas fa-link"></i></a>  
 
