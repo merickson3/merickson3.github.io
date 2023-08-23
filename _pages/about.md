@@ -11,7 +11,7 @@ redirect_from:
 
 Career Objectives
 -----
-I anticipate completing my Ph.D. program in 2023. Currently, I am searching for an academic position where I can pursue a versatile research program and develop courses on sustainable ruminant systems. If you know of an open position, please feel free to reach out to me (merickson3@wisc.edu).
+Currently, I am searching for an academic position where I can pursue a versatile research program and develop courses on sustainable ruminant systems. If you know of an open position, please feel free to reach out to me (marygraceerickson@gmail.com).
 
 Research Interests
 -----
@@ -19,7 +19,7 @@ I am interested in sustainable livestock production systems. I use both natural 
 
 Education
 -----
-- Ph.D., Dairy Science, University of Wisconsin--Madison, Anticipated 2023
+- Ph.D., Dairy Science, University of Wisconsin--Madison, 2023
 - M.S., Animal Sciences, Purdue University, 2019
 - P.A.S., Dairy Science, American Registry of Professional Animal Scientists, 2017
 - B.S., Animal Sciences, Purdue University, 2017
