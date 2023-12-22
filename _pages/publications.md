@@ -22,9 +22,9 @@ author_profile: true
 
 0. Reed, K.F., **Erickson, M.G.**, Barros, T., Danes, M.A.D., Powell, J.M., Zanton, G.I. and M.A. Wattiaux (2023, *In preparation*). Non-linear models of 15N partitioning kinetics in late lactation dairy cows from individually-labeled feed ingredients provide evidence for a slow-turnover N pool. Journal of Dairy Science. 
 
-0. De los Santos, J.A., **Erickson, M.G.**, Wattiaux, M.A., and J.J. Parrish. (2023, *Submitted*). Retrospective ratings of learning across pre-pandemic, emergency-remote, and post-pandemic instruction in an introductory biology laboratory. NACTA Journal.  
-
 ## Journal Articles
+
+0. De los Santos, J.A., **Erickson, M.G.**, Wattiaux, M.A., and J.J. Parrish. (2023). Retrospective ratings of learning across pre-pandemic, emergency-remote, and post-pandemic instruction in an introductory biology laboratory. NACTA Journal.  67(1):323-329. <a href = "https://doi.org/10.56103/nactaj.v67i1.123"> <i class="fas fa-link"></i></a>  
 
 0. **Erickson, M.G.,** & Wattiaux, M.A. (2022). Case study:  introductory student onboarding with a place-based, blended welcome tour. NACTA Journal. <a href="https://www.researchgate.net/publication/362850929_Case_Study_Introductory_Student_Onboarding_With_a_Place-Based_Blended_Welcome_Tour"><i class="fas fa-link"></i></a>  
 
