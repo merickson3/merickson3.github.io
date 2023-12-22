@@ -15,14 +15,6 @@ Career Objectives
 -----
 Currently, I am searching for an academic position where I can pursue a versatile research program and develop courses on sustainable ruminant systems. If you know of an open position, please feel free to reach out to me (marygraceerickson@gmail.com).
 
-* ![Image 1](MAW636 Graphical Abstract Production D03.jpg)
-* ![Image 2](MAW636 Graphical Abstract Production D03.jpg)
-
-  
-<script>
-    md_gallery();
-</script>
-
 Research Interests
 -----
 I am interested in sustainable livestock production systems. I use both natural and social science methods. My dairy research focuses on protein and nitrogen efficiency in lactating cows and holistic sustainability assessment. My discipline-based educational research focuses student-driven, evidence-based modernization of curricula and pedagogies in Animal and Dairy Sciences. To learn more about my research, I invite you to peruse [my publications](https://merickson3.github.io/publications/). 
