@@ -10,19 +10,18 @@ author_profile: true
 ---
 ## Pre-prints
 
-0. Barros, T., **Erickson, M.G.,** Aguerre, M.A., Olmos Colmenero, J.J., Bertics, S.J., and M.A. Wattiaux (2023, *In preparation* ). Effects of reduced dietary crude protein concentration on digestibility, N balance, and serum AA concentrations in late-lactation dairy cows. Journal of Dairy Science. 
+0. Viquez, F., **Erickson, M.G.,** Suen, G., Zanton, G.I., and M.A. Wattiaux (2024, *In preparation*). Changes in rumen microbial community structure associated with time-varying dietary protein levels. 
 
-0. **Erickson, M.G.,** Suen, G., Zanton, G.I., and M.A. Wattiaux (2023, *In preparation*). Changes in rumen microbial community structure associated with time-varying dietary protein levels. 
+0. **Erickson, M.G.,** Zanton, G.I., and M.A. Wattiaux (2023, *In review*). Effects of dietary crude protein level and feeding pattern on nitrogen excretion and nutrient digestibility. Journal of Dairy Science. 
 
-0. **Erickson, M.G.,** Zanton, G.I., and M.A. Wattiaux (2023, *In preparation*). Effects of dietary crude protein level and feeding pattern on nitrogen excretion and nutrient digestibility. Journal of Dairy Science. 
+0. Reed, K.F., **Erickson, M.G.**, Barros, T., Danes, M.A.D., Powell, J.M., Zanton, G.I. and M.A. Wattiaux (2023, *In review*). Non-linear models of 15N partitioning kinetics in late lactation dairy cows from individually-labeled feed ingredients provide evidence for a slow-turnover N pool. Journal of Dairy Science.
 
-0. **Erickson, M.G.,** Zanton, G.I., and M.A. Wattiaux (2023, *In preparation*). Cosinor mixed models illustrate dynamic effects of dietary crude protein level and feeding pattern on milk and component production over time. Journal of Dairy Science. 
+0. Barros, T., **Erickson, M.G.,** Aguerre, M.A., Olmos Colmenero, J.J., Bertics, S.J., and M.A. Wattiaux (2023, *In review* ). Effects of reduced dietary crude protein concentration on digestibility, N balance, and serum AA concentrations in late-lactation dairy cows. Journal of Dairy Science. 
 
-0. **Erickson, M.G.** and M.A. Wattiaux (2023, *In preparation*). Effects of peri-reading activities on undergraduate motivation and reading comprehension of expository scientific text. 
-
-0. Reed, K.F., **Erickson, M.G.**, Barros, T., Danes, M.A.D., Powell, J.M., Zanton, G.I. and M.A. Wattiaux (2023, *In preparation*). Non-linear models of 15N partitioning kinetics in late lactation dairy cows from individually-labeled feed ingredients provide evidence for a slow-turnover N pool. Journal of Dairy Science. 
 
 ## Journal Articles
+
+0. **Erickson, M.G.,** Zanton, G.I., and M.A. Wattiaux (2023). Dynamic lactation responses to dietary crude protein oscillation in diets adequate and deficient in metabolizable protein in Holstein cows. Journal of Dairy Science. 106(12):8774-8786. doi:10.3168/jds.2023-23603.
 
 0. De los Santos, J.A., **Erickson, M.G.**, Wattiaux, M.A., and J.J. Parrish. (2023). Retrospective ratings of learning across pre-pandemic, emergency-remote, and post-pandemic instruction in an introductory biology laboratory. NACTA Journal.  67(1):323-329. <a href = "https://doi.org/10.56103/nactaj.v67i1.123"> <i class="fas fa-link"></i></a>  
 
