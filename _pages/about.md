@@ -9,9 +9,7 @@ redirect_from:
 ---
 <script src="assets/js/md-gallery.js"></script>
 
-<script>
-    md_gallery();
-</script>
+
 
 Career Objectives
 -----
@@ -20,7 +18,10 @@ Currently, I am searching for an academic position where I can pursue a versatil
 * ![Image 1](mgericksoncows.jpg)
 * [![Image 2](mgericksoncows.jpg)
 * ![](mgericksoncows.jpg)
-
+  
+<script>
+    md_gallery();
+</script>
 
 Research Interests
 -----
