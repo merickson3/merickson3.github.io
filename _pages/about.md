@@ -15,9 +15,9 @@ Career Objectives
 -----
 Currently, I am searching for an academic position where I can pursue a versatile research program and develop courses on sustainable ruminant systems. If you know of an open position, please feel free to reach out to me (marygraceerickson@gmail.com).
 
-* ![Image 1](mgericksoncows.jpg)
-* [![Image 2](mgericksoncows.jpg)
-* ![](mgericksoncows.jpg)
+* ![Image 1](MAW636 Graphical Abstract Production D03.jpg)
+* ![Image 2](MAW636 Graphical Abstract Production D03.jpg)
+
   
 <script>
     md_gallery();
