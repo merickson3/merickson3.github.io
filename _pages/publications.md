@@ -9,7 +9,7 @@ author_profile: true
 
 ---
 ## Pre-prints
-
+{: reversed="reversed"}
 2. Viquez, F., **Erickson, M.G.,** Suen, G., Zanton, G.I., and M.A. Wattiaux (2024, *In preparation*). Changes in rumen microbial community structure associated with time-varying dietary protein levels. 
 
 1. Reed, K.F., **Erickson, M.G.**, Barros, T., Danes, M.A.D., Powell, J.M., Zanton, G.I. and M.A. Wattiaux (2023, *In review*). Non-linear models of 15N partitioning kinetics in late lactation dairy cows from individually-labeled feed ingredients. Journal of Dairy Science.
