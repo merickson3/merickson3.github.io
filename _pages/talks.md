@@ -8,7 +8,7 @@ author_profile: true
 ---
 
 
-0. **Erickson, M.G.**, Zanton, G.I., and M.A. Wattiaux. (2023, July 5). \marginnote{\begin{small} \textcolor{FireBrick}{Featured Presentations}\end{small}} Invited talk:  Dietary crude protein oscillation in diets adequate and deficient in metabolizable protein. US Dairy Forage Webinar Series. 
+0. **Erickson, M.G.**, Zanton, G.I., and M.A. Wattiaux. (2023, July 5). Invited talk:  Dietary crude protein oscillation in diets adequate and deficient in metabolizable protein. US Dairy Forage Webinar Series. 
 
 0. Wattiaux, M.A., Pizarro, D., **Erickson, M.G.**, and C.A. Gomez. Using The Sustainable Development Goals to Guide Research in Agricultural and Food Systems. (2023, May 31-June 3). VII Wallace Conference. Costa Rica. CATIE, Turrialba, Costa Rica.
 
