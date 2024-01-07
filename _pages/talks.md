@@ -8,6 +8,23 @@ author_profile: true
 ---
 
 
+0. **Erickson, M.G.**, Zanton, G.I., and M.A. Wattiaux. (2023, July 5). \marginnote{\begin{small} \textcolor{FireBrick}{Featured Presentations}\end{small}} Invited talk:  Dietary crude protein oscillation in diets adequate and deficient in metabolizable protein. US Dairy Forage Webinar Series. 
+
+0. Wattiaux, M.A., Pizarro, D., **Erickson, M.G.**, and C.A. Gomez. Using The Sustainable Development Goals to Guide Research in Agricultural and Food Systems. (2023, May 31-June 3). VII Wallace Conference. Costa Rica. CATIE, Turrialba, Costa Rica.
+
+0. Pizarro, D., **Erickson, M.G.**, D. Lucantoni, A. Mottet, C.A. Gomez, and M.A. Wattiaux. Some smallholders in Peru keep more trees on the farm than others--what else is going on? (2023, April 25). College of Agricultural and Life Sciences Global Day, Madison, WI, USA.
+
+0. Pizarro, D., **Erickson, M.G.**, D. Lucantoni, A. Mottet, and M.A. Wattiaux. Agroecological transition and holistic sustainability of smallholder dairy cattle systems. (2023, June 4-8). International Symposium on the Nutrition of Herbivores in Florianopolis, Brazil. 
+
+0. **Erickson, M.G.**, Zanton, G.I., and M.A. Wattiaux. (2023, June 27). Effects of level and oscillation of dietary crude protein on ruminal conditions. Poster at the American Dairy Science Association Annual Meeting in Ottawa, Ontario, Canada. 
+
+0. **Erickson, M.G.**, Hanigan, M.D., and Wattiaux, M.A. (2023, June). Invited Symposium Talk:  Teaching with the narrative and model in NASEM (2021) "Nutrient Requirements of Dairy Cattle." Presentation at the American Dairy Science Association Annual Meeting in Ottawa, Ontario, Canada. J. Dairy Sci. 106(Suppl. 1), 43. 
+
+0. Ronk, E., **Erickson, M.G.**, and Wattiaux, M.A. (2023, June). Emerging topics and pedagogies in animal and dairy science:  a survey of student preferences. Presentation at North American College Teachers of Agriculture Annual Meeting in Las Cruces, NM. 
+
+0. Ronk, E., **Erickson, M.G.**, and Wattiaux, M.A. (2023, May 18). Accounting for changing student preferences in animal and dairy science curriculum and pedagogy. Presentation at University of Wisconsin--Madison Teaching Symposium. 
+
+0. Pizarro, D.M., **Erickson, M.G.**, Gomez, C., and Wattiaux, M.A. (2022, Oct. 26). Measuring Agroecological Performance of Dairy Cattle Systems in the Peruvian Amazon. University of Wisconsin--Madison Sustainability Symposium. 
 
 0. Erickson, M.G., Zanton, G.I., and M.A. Wattiaux. (2022, June 22). Effects of dietary crude protein level and feeding pattern on production, nutrient digestion and excretion. Poster presented at American Dairy Science Association Annual Meeting in Kansas City, MO. 
 
