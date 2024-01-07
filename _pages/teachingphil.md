@@ -5,6 +5,12 @@ author_profile: true
 
 ---
 
+Learning from NASEM (2021) - Decoding Dairy Diets 
+-----
+In 2023, I created an  online interactive  textbook  introducing  nutritional  and  environmental  modeling  in  R  and  Python based  on  NASEM  (2021).   A  pilot  version  was  shared  at  ADSA 2023:  [Decoding Dairy Diets]([url](https://merickson3.github.io/NASEM_pilot/)).  
+
+[![Decoding Dairy Diets](DecodingDairyDietsexample.png)](https://merickson3.github.io/NASEM_pilot/index.html#intended-audience)
+
 A teaching philosophy I wrote in early 2022
 -----
 My approach to excellent teaching in the natural sciences was first informed by my experience as a natural sciences learner. As an undergraduate, I experienced first-hand the power that “research-1” universities can have by teaching at science’s cutting edge. However, I also noticed opportunities for improvement. First, although over 70% of my graduating class identified as female, I did not have a female science instructor until my senior year. Second, I was not a “Type A” learner, and I felt the grading structures punished the neurodiverse, rather than guiding and motivating learning. Yet it excited me that natural science education, much like science itself, is always improving itself.
