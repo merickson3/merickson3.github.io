@@ -19,7 +19,7 @@ author_profile: true
 
 ## Journal Articles
 
-0. Barros, T., **Erickson, M.G.,** Aguerre, M.A., Olmos Colmenero, J.J., Bertics, S.J., and M.A. Wattiaux (2024, *Accepted* ). Effects of reduced dietary crude protein concentration on digestibility, N balance, and blood metabolites in late-lactation dairy cows. Journal of Dairy Science.
+0. **Erickson, M.G.,** Barros, T., Aguerre, M.A., Olmos Colmenero, J.J., Bertics, S.J., and M.A. Wattiaux (2024, *Accepted* ). Effects of reduced dietary crude protein concentration on digestibility, N balance, and blood metabolites in late-lactation dairy cows. Journal of Dairy Science.
 ![Graphical abstract:  Effects of reduced dietary crude protein concentration on digestibility, N balance, and blood metabolites in late-lactation dairy cows](MAW454 Graphical abstract D01.9a.jpeg)
 
 0. **Erickson, M.G.,** Zanton, G.I., and M.A. Wattiaux (2024, *Accepted*). Effects of dietary crude protein level and feeding pattern on nitrogen excretion and nutrient digestibility. Journal of Dairy Science.
