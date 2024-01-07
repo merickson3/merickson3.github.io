@@ -12,15 +12,15 @@ author_profile: true
 
 0. Viquez, F., **Erickson, M.G.,** Suen, G., Zanton, G.I., and M.A. Wattiaux (2024, *In preparation*). Changes in rumen microbial community structure associated with time-varying dietary protein levels. 
 
-0. Reed, K.F., **Erickson, M.G.**, Barros, T., Danes, M.A.D., Powell, J.M., Zanton, G.I. and M.A. Wattiaux (2023, *In review*). Non-linear models of 15N partitioning kinetics in late lactation dairy cows from individually-labeled feed ingredients provide evidence for a slow-turnover N pool. Journal of Dairy Science.
-
+0. Reed, K.F., **Erickson, M.G.**, Barros, T., Danes, M.A.D., Powell, J.M., Zanton, G.I. and M.A. Wattiaux (2023, *In review*). Non-linear models of 15N partitioning kinetics in late lactation dairy cows from individually-labeled feed ingredients. Journal of Dairy Science.
+![Graphical abstract:  Non-linear models of 15N partitioning kinetics in late lactation dairy cows from individually-labeled feed ingredients](S23 N15 Graphical Abstract D07c.jpeg)
 
 
 
 ## Journal Articles
 
 0. Barros, T., **Erickson, M.G.,** Aguerre, M.A., Olmos Colmenero, J.J., Bertics, S.J., and M.A. Wattiaux (2024, *Accepted* ). Effects of reduced dietary crude protein concentration on digestibility, N balance, and blood metabolites in late-lactation dairy cows. Journal of Dairy Science.
-![Graphical abstract:  Dynamic lactation responses to dietary crude protein oscillation in diets adequate and deficient in metabolizable protein in Holstein cows](MAW454 Graphical abstract D01.9a.jpeg)
+![Graphical abstract:  Effects of reduced dietary crude protein concentration on digestibility, N balance, and blood metabolites in late-lactation dairy cows](MAW454 Graphical abstract D01.9a.jpeg)
 
 0. **Erickson, M.G.,** Zanton, G.I., and M.A. Wattiaux (2024, *Accepted*). Effects of dietary crude protein level and feeding pattern on nitrogen excretion and nutrient digestibility. Journal of Dairy Science.
 
