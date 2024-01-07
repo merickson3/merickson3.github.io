@@ -24,9 +24,7 @@ author_profile: true
 
 0. **Erickson, M.G.,** Zanton, G.I., and M.A. Wattiaux (2024, *Accepted*). Effects of dietary crude protein level and feeding pattern on nitrogen excretion and nutrient digestibility. Journal of Dairy Science.
 
-0. **Erickson, M.G.,** Zanton, G.I., and M.A. Wattiaux (2023). Dynamic lactation responses to dietary crude protein oscillation in diets adequate and deficient in metabolizable protein in Holstein cows. Journal of Dairy Science. 106(12):8774-8786. <a href = "https://doi.org/10.3168/jds.2023-23603"> <i class="fas fa-link"></i></a>
-
-![Graphical abstract:  Dynamic lactation responses to dietary crude protein oscillation in diets adequate and deficient in metabolizable protein in Holstein cows](MAW636 Graphical Abstract Production D03.jpg)
+0. **Erickson, M.G.,** Zanton, G.I., and M.A. Wattiaux (2023). Dynamic lactation responses to dietary crude protein oscillation in diets adequate and deficient in metabolizable protein in Holstein cows. Journal of Dairy Science. 106(12):8774-8786. <a href = "https://doi.org/10.3168/jds.2023-23603"> <i class="fas fa-link"></i></a> ![Graphical abstract:  Dynamic lactation responses to dietary crude protein oscillation in diets adequate and deficient in metabolizable protein in Holstein cows](MAW636 Graphical Abstract Production D03.jpg)
 
 0. De los Santos, J.A., **Erickson, M.G.**, Wattiaux, M.A., and J.J. Parrish. (2023). Retrospective ratings of learning across pre-pandemic, emergency-remote, and post-pandemic instruction in an introductory biology laboratory. NACTA Journal.  67(1):323-329. <a href = "https://doi.org/10.56103/nactaj.v67i1.123"> <i class="fas fa-link"></i></a>  
 
