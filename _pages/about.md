@@ -11,13 +11,9 @@ redirect_from:
 
 
 
-Career Objectives
+Bio
 -----
-Currently, I am searching for an academic position where I can pursue a versatile research program and develop courses on sustainable ruminant systems. If you know of an open position, please feel free to reach out to me (marygraceerickson@gmail.com).
-
-Research Interests
------
-I am interested in sustainable livestock production systems. I use both natural and social science methods. My dairy research focuses on protein and nitrogen efficiency in lactating cows and holistic sustainability assessment. My discipline-based educational research focuses student-driven, evidence-based modernization of curricula and pedagogies in Animal and Dairy Sciences. To learn more about my research, I invite you to peruse [my publications](https://merickson3.github.io/publications/). 
+MaryGrace Erickson is a postdoctoral associate at the University of Minnesota. Building on a background in applied dairy nutrition, she is committed to developing pathways for environmentally and socially-sustainable livestock systems. Her recent work focused on nutritional management of environmental impacts, laboratory methods for estimating emissions from stored manure, and whole-farm assessments to document sustainability transitions.
 
 Education
 -----
