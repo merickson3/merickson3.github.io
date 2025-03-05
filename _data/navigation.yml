@@ -9,5 +9,8 @@ main:
   - title: "Teaching"
     url: /teachingphil/
     
-  - title: "Projects"
-    url: /MG-Rmd-Files/
+#  - title: "Projects"
+#    url: /MG-Rmd-Files/
+
+  - title: "CV"
+    url: /files/2024.03.04_MG_Erickson_CV.pdf
