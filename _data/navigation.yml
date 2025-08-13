@@ -9,8 +9,8 @@ main:
   - title: "Resources"
     url: /teachingphil/
     
-#  - title: "Projects"
-#    url: /MG-Rmd-Files/
+  #- title: "NASEM Book"
+  #  url: /NASEM_pilot/
 
   - title: "CV"
     url: /files/2024.03.04_MG_Erickson_CV.pdf
