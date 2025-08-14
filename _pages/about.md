@@ -10,6 +10,8 @@ redirect_from:
 <script src="assets/js/md-gallery.js"></script>
 
 
+This site shares some of my projects related to dairy nutrition and sustainability.
+
 
 About Me
 -----
