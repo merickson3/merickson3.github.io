@@ -27,5 +27,5 @@ Connect with Me
 I would love to hear from you. Please see the sidebar for a few ways to keep in touch. 
 
 
-<img src="https://merickson3.github.io/images/mgericksoncows.jpg" width="100%">
+<img src="https://merickson3.github.io/_pages/mgericksoncows.jpg" width="100%">
 
