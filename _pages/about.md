@@ -27,5 +27,5 @@ Connect with Me
 I would love to hear from you. Please see the sidebar for a few ways to keep in touch. 
 
 
+<img src="https://merickson3.github.io/images/mgericksoncows.jpg" width="100%">
 
-![Me and a study participant](mgericksoncows.jpg)
