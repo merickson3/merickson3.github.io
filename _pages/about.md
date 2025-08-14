@@ -11,7 +11,7 @@ redirect_from:
 
 
 
-About
+About Me
 -----
 MaryGrace Erickson is a postdoctoral associate at the University of Minnesota. Building on a background in applied dairy nutrition, she is committed to developing pathways for environmentally and socially-sustainable livestock systems. Her recent work focused on nutritional management of environmental impacts, laboratory methods for estimating emissions from stored manure, and whole-farm assessments to document sustainability transitions.
 
