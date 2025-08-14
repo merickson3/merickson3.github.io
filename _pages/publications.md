@@ -16,7 +16,7 @@ author_profile: true
 ## Journal Articles
 
 0. Erickson, M., Cortus, E., Koelsch, R., Johnson, L., Wilson, M. L., Andersen, D., Zelt, M., & Schmidt, A. M. (2025). Manure use benefits and barriers according to agricultural stakeholders. Agronomy Journal, 117(4), e70110. https://doi.org/10.1002/agj2.70110
-![Graphical abstract:  Manure use benefits and barriers according to agricultural stakeholders](/images/AS Manure Benefits Graphical.jpeg)
+<img src="https://merickson3.github.io/images/AS Manure Benefits Graphical.jpeg" width="100%"; border = 1px>
 
 2. Viquez, F., **Erickson, M.G.,** Suen, G., Zanton, G.I., and M.A. Wattiaux (2025). Assessing the impact of oscillating dietary crude protein on the stability of the rumen microbiome in dairy cattle. Frontiers in Microbiology.
 ![Graphical abstract:  Assessing the impact of oscillating dietary crude protein on the stability of the rumen microbiome in dairy cattle](/images/Viquez Umana MAW636 Graphical Abstract.jpg)
