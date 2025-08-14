@@ -13,7 +13,7 @@ In 2023, I created an  online interactive  textbook  introducing  nutritional  a
 
 dairynasem R package
 -----
-<img src="https://merickson3.github.io/images/dairynasem_logo.png" width="35%">
+[<img src="https://merickson3.github.io/images/dairynasem_logo.png" width="35%">](https://github.com/merickson3/dairynasem/tree/main)
 
 I developed an R package to run the NASEM (2021) model on batched inputs. 
 
