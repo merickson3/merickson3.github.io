@@ -22,7 +22,7 @@ Education
 - P.A.S., Dairy Science, American Registry of Professional Animal Scientists, 2017
 - B.S., Animal Sciences, Purdue University, 2017
 
-Connect with me!
+Connect with Me
 -----
 I would love to hear from you. Please see the sidebar for a few ways to keep in touch. 
 
