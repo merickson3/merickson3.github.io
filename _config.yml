@@ -309,7 +309,5 @@ carousels:
     - image: /images/dairynasem_logo.png
 
   - images: 
-    - image: /uploads/slider/image5.jpg
-    - image: /uploads/slider/image6.jpg
-    - image: /uploads/slider/image7.jpg
-    - image: /uploads/slider/image8.jpg
+    - image: /images/AS Manure Benefits Graphical.jpeg
+    - image: /images/dairynasem_logo.png
