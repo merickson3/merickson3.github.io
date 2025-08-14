@@ -11,4 +11,13 @@ In 2023, I created an  online interactive  textbook  introducing  nutritional  a
 
 [![Decoding Dairy Diets](DecodingDairyDietsexample.png)](https://merickson3.github.io/NASEM_pilot/index.html#intended-audience)
 
+dairynasem R package
+-----
+I developed an R package to run the NASEM (2021) model on batched inputs. 
+
+Github repository for dairynasem (https://github.com/merickson3/dairynasem/tree/main)
+
+
 ![Campus-wide TA award ceremony](erickson_dorothy_powelson.jpg)
+
+
