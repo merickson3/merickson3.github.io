@@ -10,19 +10,24 @@ author_profile: true
 ---
 ## Pre-prints
 {: reversed="reversed"}
-2. Viquez, F., **Erickson, M.G.,** Suen, G., Zanton, G.I., and M.A. Wattiaux (2024, *In preparation*). Changes in rumen microbial community structure associated with time-varying dietary protein levels. 
-
-1. Reed, K.F., **Erickson, M.G.**, Barros, T., Danes, M.A.D., Powell, J.M., Zanton, G.I. and M.A. Wattiaux (2023, *In review*). Non-linear models of 15N partitioning kinetics in late lactation dairy cows from individually-labeled feed ingredients. Journal of Dairy Science.
-![Graphical abstract:  Non-linear models of 15N partitioning kinetics in late lactation dairy cows from individually-labeled feed ingredients](S23 N15 Graphical Abstract D07c.jpeg)
 
 
 
 ## Journal Articles
 
-0. **Erickson, M.G.,** Barros, T., Aguerre, M.A., Olmos Colmenero, J.J., Bertics, S.J., and M.A. Wattiaux (2024, *Accepted* ). Effects of reduced dietary crude protein concentration on digestibility, N balance, and blood metabolites in late-lactation dairy cows. Journal of Dairy Science.
+0. Erickson, M., Cortus, E., Koelsch, R., Johnson, L., Wilson, M. L., Andersen, D., Zelt, M., & Schmidt, A. M. (2025). Manure use benefits and barriers according to agricultural stakeholders. Agronomy Journal, 117(4), e70110. https://doi.org/10.1002/agj2.70110
+![Graphical abstract:  Manure use benefits and barriers according to agricultural stakeholders](AS Manure Benefits Graphical.jpeg)
+
+2. Viquez, F., **Erickson, M.G.,** Suen, G., Zanton, G.I., and M.A. Wattiaux (2025). Assessing the impact of oscillating dietary crude protein on the stability of the rumen microbiome in dairy cattle. Frontiers in Microbiology.
+![Graphical abstract:  Assessing the impact of oscillating dietary crude protein on the stability of the rumen microbiome in dairy cattle](Viquez Umana MAW636 Graphical Abstract.jpg)
+
+1. Reed, K.F., **Erickson, M.G.**, Barros, T., Danes, M. A. C., Powell, J. M., Zanton, G. I., & Wattiaux, M. A. (2024). Nonlinear models of 15N partitioning kinetics in late-lactation dairy cows from individually labeled feed ingredients. Journal of Dairy Science, 107(11), 9176–9196. https://doi.org/10.3168/jds.2023-24239
+![Graphical abstract:  Non-linear models of 15N partitioning kinetics in late lactation dairy cows from individually-labeled feed ingredients](S23 N15 Graphical Abstract D07c.jpeg)
+
+0. **Erickson, M.G.,** Barros, T., Aguerre, M.A., Olmos Colmenero, J.J., Bertics, S.J., and M.A. Wattiaux (2025). Effects of reduced dietary crude protein concentration on digestibility, N balance, and blood metabolites in late-lactation dairy cows. Journal of Dairy Science.
 ![Graphical abstract:  Effects of reduced dietary crude protein concentration on digestibility, N balance, and blood metabolites in late-lactation dairy cows](MAW454 Graphical abstract D01.9a.jpeg)
 
-0. **Erickson, M.G.,** Zanton, G.I., and M.A. Wattiaux (2024, *Accepted*). Effects of dietary crude protein level and feeding pattern on nitrogen excretion and nutrient digestibility. Journal of Dairy Science.
+0. **Erickson, M.G.,** Reinhardt, L. A., Svaren, L., Sullivan, M. L., Zanton, G. I., & Wattiaux, M. A. (2024). Crude protein oscillation in diets adequate and deficient in metabolizable protein: Effects on nutrient digestibility, nitrogen balance, plasma amino acids, and greenhouse gas emissions. Journal of Dairy Science, 107(6), 3558–3572. https://doi.org/10.3168/jds.2023-24150
 
 0. **Erickson, M.G.,** Zanton, G.I., and M.A. Wattiaux (2023). Dynamic lactation responses to dietary crude protein oscillation in diets adequate and deficient in metabolizable protein in Holstein cows. Journal of Dairy Science. 106(12):8774-8786. <a href = "https://doi.org/10.3168/jds.2023-23603"> <i class="fas fa-link"></i></a> ![Graphical abstract:  Dynamic lactation responses to dietary crude protein oscillation in diets adequate and deficient in metabolizable protein in Holstein cows](MAW636 Graphical Abstract Production D03.jpg)
 
