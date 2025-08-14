@@ -18,6 +18,4 @@ I developed an R package to run the NASEM (2021) model on batched inputs.
 Github repository for dairynasem (https://github.com/merickson3/dairynasem/tree/main)
 
 
-![Campus-wide TA award ceremony](erickson_dorothy_powelson.jpg)
-
 
