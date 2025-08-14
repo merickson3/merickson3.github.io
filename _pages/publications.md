@@ -16,11 +16,9 @@ author_profile: true
 ## Journal Articles
 
 0. Erickson, M., Cortus, E., Koelsch, R., Johnson, L., Wilson, M. L., Andersen, D., Zelt, M., & Schmidt, A. M. (2025). Manure use benefits and barriers according to agricultural stakeholders. Agronomy Journal, 117(4), e70110. https://doi.org/10.1002/agj2.70110
-   
 <img src="https://merickson3.github.io/images/AS Manure Benefits Graphical.jpeg" width="70%" border=1px solid>
 
 2. Viquez, F., **Erickson, M.G.,** Suen, G., Zanton, G.I., and M.A. Wattiaux (2025). Assessing the impact of oscillating dietary crude protein on the stability of the rumen microbiome in dairy cattle. Frontiers in Microbiology.
-   
 <img src="https://merickson3.github.io/images/Viquez Umana MAW636 Graphical Abstract.jpg" width="100%" border=1px solid>
 
 1. Reed, K.F., **Erickson, M.G.**, Barros, T., Danes, M. A. C., Powell, J. M., Zanton, G. I., & Wattiaux, M. A. (2024). Nonlinear models of 15N partitioning kinetics in late-lactation dairy cows from individually labeled feed ingredients. Journal of Dairy Science, 107(11), 9176–9196. https://doi.org/10.3168/jds.2023-24239
