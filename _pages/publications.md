@@ -11,10 +11,6 @@ author_profile: true
 ## Pre-prints
 {: reversed="reversed"}
 
-{% include carousel.html height="50" unit="%" duration="7" number="1" %}
-
-{% include carousel.html height="50" unit="%" duration="7" number="2" %}
-
 ## Journal Articles
 
 0. Erickson, M., Cortus, E., Koelsch, R., Johnson, L., Wilson, M. L., Andersen, D., Zelt, M., & Schmidt, A. M. (2025). Manure use benefits and barriers according to agricultural stakeholders. Agronomy Journal, 117(4), e70110. https://doi.org/10.1002/agj2.70110
